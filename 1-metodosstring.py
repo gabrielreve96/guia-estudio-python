@@ -24,7 +24,7 @@ print(set_of_numbers)
 
 
 
-import typing
+
 
 mi_nombre:str = "gabriel dominguez"
 mi_edad:int =  27
@@ -49,7 +49,7 @@ print(set_of_numbers)
 
 
 
-import typing
+
 def entradas(edad):
   if edad <=18:
     return "No es mayor de edad , entrada denegada"
